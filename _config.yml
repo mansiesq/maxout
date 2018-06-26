@@ -4,7 +4,7 @@ email: info@maxoutforwomen.com
 description: > # this means to ignore newlines until "baseurl:"
   non-partisan movement to educate the public about the disparity women 
   face in political fundraising and to empower female candidates.
-baseurl: "/maxout/" # the subpath of your site, e.g. /blog/
+baseurl: "/maxout" # the subpath of your site, e.g. /blog/
 url: "http://mansiesq.github.io" # the base hostname & protocol for your site
 twitter_username: maxoutforwomen
 github_username:  mansiesq
